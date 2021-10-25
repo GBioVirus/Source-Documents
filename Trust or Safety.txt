@@ -1,0 +1,10 @@
+Electro foxy bot, hereinafter bot, is a functional application for working with chat moderation and administration 
+
+The bot is not intended to store data except for the levels received by chat users
+Any information can be deleted by the chat moderator with the tag administrator by outputting the command and specifying <@id user>
+for feedback, the bot uses the feedback command and transfers one message from the user to private messages to the creator, this is necessary for effective user feedback
+
+The bot uses and stores user IDs only when working with the moderating component and entertainment content, and this data can also be deleted at the request of the participant or upon request Server administrator for a complete cleansing of data from the database, indicating certain errors by contacting lisno or through a bot 
+
+By inviting this bot to your server, you confirm your consent to use certain functionality and you can also regulate its work in the future by changing the access of the bot role by means of the necessary functionality.
+We assume all bot errors and we also commit ourselves to correct them during
